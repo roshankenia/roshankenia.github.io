@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Roshan Kenia"
   avatar           : "profile.png"
-  bio              : "Undergraduate Computer Science Researcher\nStony Brook University"
+  bio              : "Undergraduate Computer Science Researcher"
   location         : "New York"
-  employer         :
+  employer         : "Stony Brook University"
   pubmed           : 
   googlescholar    : 
   email            : "roshan.kenia@stonybrook.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "roshankenia"
+  linkedin         : "roshan-kenia"
   orcid            : 
   pinterest        :
   soundcloud       :
