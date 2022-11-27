@@ -18,8 +18,8 @@ main:
   - title: "Resume"
     url: /files/resume.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
     
   # - title: "Guide"
   #   url: /markdown/

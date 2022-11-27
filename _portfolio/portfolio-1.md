@@ -1,9 +1,9 @@
 ---
-title: "Knowledge Distillation in Genomic Deep Learning"
-excerpt: "Koo Laboratory (2021)"
-collection: portfolio
+title: "Learning with Noisy Labels"
+excerpt: "Yin Laboratory (Present)"
+collection: research
 ---
-[Presentation](https://roshankenia.github.io/files/knowledgedistillation.pdf)
-- Researched the functional impact of genomic mutations through a computational lens using machine learning solutions.
-- Conducted a two semester long project with Dr. Peter Koo involved with distilling knowledge from a teacher network to a student network as a regularization technique in order to build a more general and less overfitted model.
-- Compared model interpretability using methods such as saliency maps, integrated gradients, and in-silico mutagenesis.
+[Presentation](https://roshankenia.github.io/files/consistencybasedregularization.pdf)
+- Studying with Dr. Zhaozheng Yin the problem of learning under the presence of noisy labels within an image dataset.
+- Mitigating ways in which a robust model can be built so as to be tolerable to overfitting caused by noisy data.
+- Utilizing semi-supervised learning by treating noisy samples as unlabeled in order to compete with state-of-the-art.
