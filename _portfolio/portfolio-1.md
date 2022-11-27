@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Knowledge Distillation in Genomic Deep Learning"
+excerpt: "Koo Laboratory (2021)"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Presentation](https://roshankenia.github.io/files/knowledgedistillation.pdf)
+- Researched the functional impact of genomic mutations through a computational lens using machine learning solutions.
+- Conducted a two semester long project with Dr. Peter Koo involved with distilling knowledge from a teacher network to a student network as a regularization technique in order to build a more general and less overfitted model.
+- Compared model interpretability using methods such as saliency maps, integrated gradients, and in-silico mutagenesis.
