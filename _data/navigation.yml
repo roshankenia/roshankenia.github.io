@@ -20,6 +20,9 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "Awards"
+    url: /awards/
   
   - title: "Technical Communication"
     url: /techcom/
