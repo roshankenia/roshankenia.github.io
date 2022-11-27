@@ -184,6 +184,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  techcom:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +234,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _techcom
+  - scope:
+      path: ""
+      type: techcom
     values:
       layout: single
       author_profile: true
