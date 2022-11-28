@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "Resume"
-    url: /files/resume.pdf
+    url: /resume/
 
   - title: "Research"
     url: /research/
