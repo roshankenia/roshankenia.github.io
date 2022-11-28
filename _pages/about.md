@@ -15,4 +15,4 @@ I am a senior undergraduate Computer Science & Math major at Stony Brook Univers
 
 **My Interests**
 
-My research interests include machine learning, computer vision, medical imaging, and genomic deep learning. My main research focuses on developing semi-supervised techniques and data augmentation methods to build robust models that can be trained under the presence of noisy labels within a dataset. My academic interests include the broad field of artificial intelligence and its use in all applicable aspects of computer science.
+My research interests include machine learning, computer vision, medical imaging, and genomic deep learning. My main research focuses on developing semi-supervised learning techniques and data augmentation methods to build robust models that can be trained under the presence of noisy labels within a dataset. My academic interests include the broad field of artificial intelligence and its use in all applicable aspects of computer science.
