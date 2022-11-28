@@ -14,16 +14,18 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "Resume"
-    url: /resume/
+  - title: "Awards"
+    url: /awards/
 
   - title: "Research"
     url: /research/
 
-  - title: "Awards"
-    url: /awards/
-  
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Professional Experience"
+    url: /experience/
+
   - title: "Technical Communication"
     url: /techcom/
     

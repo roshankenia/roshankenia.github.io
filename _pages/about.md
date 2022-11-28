@@ -11,7 +11,7 @@ redirect_from:
 
 **About Me**
 
-I am a senior undergraduate Computer Science & Math major at Stony Brook University expected to graduate in May 2023. Currently, I research with Dr. Zhaozheng Yin at Stony Brook University in his machine learning and biomedical informatics lab. Previously, I was a research assistant in Koo Lab at Cold Spring Harbor Laboratory which focused on genomic deep learning and its interpretability. In my spare time, I like to learn Hindi, go on runs, watch college football and Jeopardy, and listen to rap.
+I am a senior undergraduate Computer Science & Math major at Stony Brook University expected to graduate in May 2023. Currently, I research with [Dr. Zhaozheng Yin](https://www3.cs.stonybrook.edu/~zyin/index.htm) at Stony Brook University in his machine learning and biomedical informatics lab. Previously, I was a research assistant in [Koo Lab](https://koolab.cshl.edu/) at Cold Spring Harbor Laboratory which focused on genomic deep learning and its interpretability. In my spare time, I like to go on runs, watch college football and Jeopardy, learn Hindi, and listen to rap.
 
 **My Interests**
 

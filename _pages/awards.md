@@ -12,5 +12,5 @@ author_profile: true
 **Academic**
 
 - University Scholars Honors Program
-- Dean's List all undergraduate semesters
-- Stony Brook University Presidential Scholarship: Covers 33% of tuition
+- Dean's List: Fall 2019 - Present
+- Stony Brook University Presidential Scholarship: 33% Tuition
