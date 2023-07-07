@@ -25,9 +25,6 @@ main:
 
   - title: "Professional Experience"
     url: /experience/
-
-  - title: "Technical Communication"
-    url: /techcom/
     
   # - title: "Guide"
   #   url: /markdown/
