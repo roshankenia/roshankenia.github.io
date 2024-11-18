@@ -12,7 +12,7 @@ redirect_from:
 
 I am a second-year Master’s student in Computer Science at Columbia University, expected to graduate in May 2025. Currently, I am a Graduate Research Assistant in the [AI4VS Lab](https://ai4vs.cs.columbia.edu/) at Columbia University, working under the guidance of [Dr. Kaveri Thakoor](https://www.cs.columbia.edu/~kthakoor/). My research focuses on developing anatomically guided cross-attention mechanisms and hybrid deep learning models for 3D medical imaging, with applications in glaucoma and AMD detection. Previously, I conducted research at MIT Lincoln Laboratory, focusing on biomedical imaging and weakly supervised learning, and at [Dr. Zhaozheng Yin's Lab](https://www3.cs.stonybrook.edu/~zyin/index.htm) at Stony Brook University, where I developed computer vision solutions for nuclear reactor safety. My early research experience was with [Koo Lab](https://koolab.cshl.edu/) at Cold Spring Harbor Laboratory, exploring genomic deep learning and interpretability.  
 
-In my spare time, I enjoy running, watching college football and *Jeopardy!*, learning Hindi, and listening to rap music.  
+In my spare time, I enjoy running, watching college football and *Jeopardy!*, playing squash, and gardening.  
 
 **My Interests**  
 
