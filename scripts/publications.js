@@ -1,4 +1,4 @@
-// Renders the Publications table from data/references.bib so the list can be
+// Renders the Publications table from data/selected.bib so the list can be
 // updated by editing that one file instead of this page's HTML.
 // Requires the page to be served over http(s) -- `fetch` of a local file
 // does not work when index.html is opened directly via file://.
@@ -168,9 +168,9 @@
   const container = document.getElementById('pub-rows');
   if (!container) return;
 
-  fetch('data/references.bib')
+  fetch('data/selected.bib')
     .then(function (res) {
-      if (!res.ok) throw new Error('Could not load data/references.bib (' + res.status + ')');
+      if (!res.ok) throw new Error('Could not load data/selected.bib (' + res.status + ')');
       return res.text();
     })
     .then(function (text) {
