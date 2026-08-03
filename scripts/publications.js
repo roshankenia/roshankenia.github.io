@@ -102,11 +102,14 @@
       .join(', ');
   }
 
-  function buildLinks(fields) {
+  function buildLinks(fields, titleTarget) {
     const links = [];
     if (fields.project) links.push('<a href="' + fields.project + '">project page</a>');
-    if (fields.url) links.push('<a href="' + fields.url + '">paper</a>');
-    if (fields.arxiv) links.push('<a href="' + fields.arxiv + '">arXiv</a>');
+    // Only show arXiv as its own link if it isn't already the title's target
+    // (i.e. a `url` was present and took priority for the title link).
+    if (fields.arxiv && fields.arxiv !== titleTarget) {
+      links.push('<a href="' + fields.arxiv + '">arXiv</a>');
+    }
     if (fields.code) links.push('<a href="' + fields.code + '">code</a>');
     return links.join(' /\n    ');
   }
@@ -114,10 +117,11 @@
   function renderEntry(entry) {
     const f = entry.fields;
     const venue = f.booktitle || f.journal || f.organization || '';
-    const titleHtml = f.url
-      ? '<a href="' + f.url + '"><span class="papertitle">' + f.title + '</span></a>'
+    const titleTarget = f.url || f.arxiv;
+    const titleHtml = titleTarget
+      ? '<a href="' + titleTarget + '"><span class="papertitle">' + f.title + '</span></a>'
       : '<span class="papertitle">' + f.title + '</span>';
-    const links = buildLinks(f);
+    const links = buildLinks(f, titleTarget);
     const bgcolor = f.highlight === 'true' ? ' bgcolor="#ffffd0"' : '';
 
     const textCell =
